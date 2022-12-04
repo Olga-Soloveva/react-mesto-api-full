@@ -3,6 +3,6 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-IP 158.160.5.51
-Frontend https://olgatovstaya.mesto.nomoredomains.club
-Backend https://api.olgatovstaya.mesto.nomoredomains.club
+* IP 158.160.5.51
+* Frontend https://olgatovstaya.mesto.nomoredomains.club
+* Backend https://api.olgatovstaya.mesto.nomoredomains.club
