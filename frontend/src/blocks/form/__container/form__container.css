@@ -1,0 +1,13 @@
+.form__container {
+  width: 358px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media screen and (max-width: 650px) {
+  .form__container {
+    width: 260px;
+  }
+}
