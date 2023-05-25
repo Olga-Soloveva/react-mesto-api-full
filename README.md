@@ -1,16 +1,9 @@
-
-* Frontend https://olgatovstaya.mesto.nomoredomains.club
-* Backend https://api.olgatovstaya.mesto.nomoredomains.club
-
 # Проект: Mesto React Api-full
 Автор: Товстая Ольга
 
 ## Описание
 Mesto: интерактивная страница с возможностью размещать фотографии, удалять их и ставить лайки.
 Cайт сделан в рамках обучения по професии "Веб разработчик" в Яндекс Практикуме.
-
-## Посмотреть проект
-https://olgatovstaya.mesto.nomoredomains.club
 
 ## Функциональность проекта
 ### Frontend
